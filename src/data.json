@@ -1,0 +1,80 @@
+[
+  {
+    "_id": 1,
+    "name": "carrot",
+    "vitamins": [
+      "A",
+      "D"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "_id": 2,
+    "name": "apple",
+    "vitamins": [
+      "B",
+      "C",
+      "D"
+    ],
+    "category": "fruit"
+  },
+  {
+    "_id": 3,
+    "name": "pumpkin",
+    "vitamins": [
+      "C",
+      "D",
+      "B"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "_id": 4,
+    "name": "potato",
+    "vitamins": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "_id": 5,
+    "name": "asparagus",
+    "vitamins": [
+      "C",
+      "A",
+      "D"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "_id": 6,
+    "name": "radish",
+    "vitamins": [
+      "A",
+      "B",
+      "D"
+    ],
+    "category": "vegetable"
+  },
+  {
+    "_id": 7,
+    "name": "banana",
+    "vitamins": [
+      "A",
+      "D"
+    ],
+    "category": "fruit"
+  },
+  {
+    "_id": 8,
+    "name": "strawberry",
+    "vitamins": [
+      "C",
+      "B"
+    ],
+    "category": "fruit"
+  }
+]
